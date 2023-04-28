@@ -4,7 +4,7 @@ Language : JavaScript
 Framework : React
 Datbase : Firebase
 
-# NPM Command Linke
+# NPM Command Line's
 
 ```bash
 npx create-react-app
