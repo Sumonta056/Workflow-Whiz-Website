@@ -1,4 +1,4 @@
-## Builing a React App
+## Builing a React JS Website
 
 Language : JavaScript
 Framework : React
